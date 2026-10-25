@@ -17,6 +17,7 @@ Most of these started as university or industry projects. Every repo has a prope
 | [quillbook-llm-simulation](https://github.com/batuhanok/quillbook-llm-simulation) | 24 LLM personas living through a payroll company's roughest January, built in a day at Talp's Simulation Hackathon |
 | [nestle-discount-optimization](https://github.com/batuhanok/nestle-discount-optimization) | How sales react to 41 discount levels and which one is worth giving. Senior project with Nestlé, under NDA |
 | [nba-player-clustering](https://github.com/batuhanok/nba-player-clustering) | Grouping 50 NBA players by how they actually play, in R |
+| [retail-db-design](https://github.com/batuhanok/retail-db-design) | A clothing brand's scattered data turned into one SQL Server database, from ER diagram to 11 business queries |
 
 **Optimization**
 

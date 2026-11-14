@@ -6,42 +6,25 @@ I graduated from Yeditepe University in 2025 with a degree in Industrial Enginee
 
 ---
 
-### What's in here
+### Projects
 
 Most of these started as university or industry projects. Every repo has a proper write up, and the code wherever I'm allowed to share it.
 
-**Decisions, systems and strategy**
-
-| Project | In one line |
+| Project | Summary |
 |---|---|
-| [energy-decision-analysis](https://github.com/batuhanok/energy-decision-analysis) | Gas plant or solar farm, and how much better information about prices is really worth |
-| [flat-glass-system-design](https://github.com/batuhanok/flat-glass-system-design) | A glass line that feeds its own broken glass back into the furnace, with a 2.7 year payback |
-| [covid19-supply-chains](https://github.com/batuhanok/covid19-supply-chains) | What broke in global supply chains during COVID-19, and what never went back to normal |
-| [career-transition-risk](https://github.com/batuhanok/career-transition-risk) | Treating the jump from university to work like a project risk register |
-| [gymmate-plus](https://github.com/batuhanok/gymmate-plus) | 285 requirements for a workout app that listens when you say you're tired |
-
-**Data and machine learning**
-
-| Project | In one line |
-|---|---|
-| [nestle-discount-optimization](https://github.com/batuhanok/nestle-discount-optimization) | How sales react to 41 discount levels and which one is worth giving. Senior project with Nestlé, under NDA |
-| [quillbook-llm-simulation](https://github.com/batuhanok/quillbook-llm-simulation) | 24 LLM personas living through a payroll company's roughest January, built in a day at Talp's Simulation Hackathon |
-| [nba-player-clustering](https://github.com/batuhanok/nba-player-clustering) | Grouping 50 NBA players by how they actually play, in R |
-| [retail-db-design](https://github.com/batuhanok/retail-db-design) | A clothing brand's scattered data turned into one SQL Server database, from ER diagram to 11 business queries |
-
-**Optimization**
-
-| Project | In one line |
-|---|---|
-| [tai-scheduling-optimization](https://github.com/batuhanok/tai-scheduling-optimization) | Scheduling an aerospace paint shop around one busy oven. Done with Turkish Aerospace, under NDA |
-| [tsp-delivery-routing](https://github.com/batuhanok/tsp-delivery-routing) | 30 customers, one van, and heuristics that land within 1.4% of the optimal route |
-
-**Simulation**
-
-| Project | In one line |
-|---|---|
-| [patient-flow-simulation](https://github.com/batuhanok/patient-flow-simulation) | Timing patients at a real health center, then cutting the registration queue by up to 89% in Arena |
-| [vat-plastic-system-dynamics](https://github.com/batuhanok/vat-plastic-system-dynamics) | Can the VAT we pay on electronics clean the plastic they leave in our seas? A 20 year STELLA model |
+| [Sales Forecasting and Discount Optimization for Nestlé](https://github.com/batuhanok/nestle-discount-optimization) | Sales response and discount optimization for Nestlé Professional, projecting an 11.1% profit increase, summary only under NDA |
+| [Decision Analysis for Energy Investment](https://github.com/batuhanok/decision-analysis-energy) | Gas plant vs solar farm investment decision with decision trees, value of information and risk preferences |
+| [System Design for Flat Glass Manufacturing](https://github.com/batuhanok/system-design-flat-glass) | Flat glass line with a cullet recycling conveyor, from requirements and layout to a 2.7 year payback case |
+| [Customer Simulation with LLM Personas](https://github.com/batuhanok/quillbook-llm-simulation) | LLM persona simulation of a payroll company's customers, built in one day at Talp's Simulation Hackathon |
+| [The Economic Impact of COVID-19 on Global Supply Chains](https://github.com/batuhanok/economic-impact-covid19-supply-chain) | Research paper on how COVID-19 disrupted global supply chains and how Turkey and Russia responded |
+| [Scheduling Optimization for an Aerospace Paint Shop](https://github.com/batuhanok/tai-scheduling-optimization) | Mixed integer scheduling model for an aerospace paint shop with Turkish Aerospace, summary only under NDA |
+| [Vehicle Routing for a Delivery Company](https://github.com/batuhanok/vehicle-routing-delivery) | Delivery route for 30 customers with heuristics that land within 1.4% of the optimal Gurobi solution |
+| [Simulation of Patient Flow](https://github.com/batuhanok/simulation-patient-flow) | Arena simulation of a family health center, with two redesigns that cut registration waiting by up to 89% |
+| [System Dynamics Model of Electronics VAT and Plastic Waste](https://github.com/batuhanok/system-dynamics-vat-plastic) | 20 year STELLA model of whether electronics VAT revenue can fund the cleanup of plastic in Turkish waters |
+| [Clustering Basketball Players](https://github.com/batuhanok/clustering-nba-players) | K-means and hierarchical clustering of 50 NBA players by performance metrics in R |
+| [Database Design for Retail Operations](https://github.com/batuhanok/database-design-retail) | SQL Server database for a fictional clothing brand, from ER diagram to 11 business queries |
+| [Risk Analysis of the Transition from Student to Professional Life](https://github.com/batuhanok/risk-analysis-career-transition) | Risk register for the move from university to work, with a probability-impact matrix and response plans |
+| [GymMate+: AI-Powered Fitness Application](https://github.com/batuhanok/gymmate-fitness-app) | Requirements and system design for an AI powered fitness app, with 285 requirements and 94 use cases |
 
 ---
 
